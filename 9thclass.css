@@ -1,0 +1,21 @@
+body{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(252, 186, 147, 0.7),rgba(194,116,71,0.7)),url("http://ucmwriting.weebly.com/uploads/5/9/1/2/59121359/books_orig.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+}
+h1{
+    text-align:center ;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+img{
+    height: 60px;
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
